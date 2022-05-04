@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PMV40UN2R)(type KiCad)(uri ${KIPRJMOD}/Trans_Nexperia_PMV40UN2R/eec.pretty)(options "")(descr ""))
+)

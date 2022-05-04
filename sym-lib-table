@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PMV40UN2R)(type Legacy)(uri ${KIPRJMOD}/Trans_Nexperia_PMV40UN2R/eec.lib)(options "")(descr ""))
+)
